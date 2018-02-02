@@ -22,11 +22,13 @@ If you like to hire me to work on your project remotely, please feel free to [me
 ### Code Rap
 
 ```markdown
-class HasStarted() 
-  {
-    theRapsBegun()
-      {
-        const $RHYMING = "I'm just having some fun ;)";
-      }
+<?php
+  class HasStarted() 
+    {
+      theRapsBegun()
+        {
+          const $RHYMING = "I'm just having some fun ;)";
+        }
   }
+?>
 ```
