@@ -6,7 +6,7 @@ I'm an **IT Consultant** specialising in [ERP Software](https://www.erp.ie), Rap
 
 If you like to hire me to work on your project remotely, please feel free to [message me](mailto:lloydhardy@gmail.com) and maybe we can build cool things together :)
 
-![Image](Lloyd.jpg)
+![Image](beach.jpg)
 
 ### Things I Like
 
