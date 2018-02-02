@@ -34,12 +34,42 @@ If you would like to hire me to work on your project remotely (I'm usually on th
 ?>
 ```
 
+### Roadmap
+
+This is a list notes on upcoming projects:
 
 ## PHP Classes
 
 [PHPCalendar](https://lloydhardy.github.io/PHPCalendar)
-
 PHPReport
-
 PHPResult
+
+## Templates
+
+Bootstrap WebDesktop Template
+Angular 4 WebDesktop Template
+X3D WebDesktop Template
+
+## Apps
+
+Android WebDesktop App
+IOS WebDesktop App
+AWS WebDesktop App
+
+## Frameworks
+
+Laravel WebDesktop Connector 
+Symphony WebDesktop Connector
+CodeIgnighter WebDesktop Connector
+
+## Web Services
+
+REST Access
+SOAP Access
+
+# Plugins & Extensions
+
+Wordpress Plugin for WebDesktop
+Drupal Module for WebDesktop
+Magento Extension for WebDesktop
 
