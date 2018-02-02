@@ -10,8 +10,9 @@ If you would like to hire me to work on your project remotely (I'm usually on th
 ### Things I Like
 
 1. Pretty Code
-2. Englsh Ale
+2. English Ale
 3. Beaches
+4. Rapping
 
 
 ### Things I Don't Like
