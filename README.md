@@ -1,10 +1,8 @@
-## Lloyd Hardy
+## Hi, My Name Is Lloyd
 
-You can use the [editor on GitHub](https://github.com/lloydhardy/lloydhardy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm an IT Consultant specialising in [ERP Software](https://www.erp.ie) and a PHP Developer of Business Software. I want to share code I found useful with you to save you some time and provide you freedom in using these classess by using the AGPLv3. If there is something you really need then feel free to message me and maybe we can build it together :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Coding Standards
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
