@@ -35,11 +35,11 @@ If you would like to hire me to work on your project remotely (I'm usually on th
 ?>
 ```
 
-### Roadmap
+## Roadmap
 
 This is a list notes on upcoming projects:
 
-## PHP Classes
+### PHP Classes
 
 [PHPCalendar](https://lloydhardy.github.io/PHPCalendar)
 
@@ -47,7 +47,7 @@ PHPReport
 
 PHPResult
 
-## Templates
+### Templates
 
 Bootstrap Template
 
@@ -55,7 +55,7 @@ Angular 4 Template
 
 X3D Template
 
-## Apps
+### Apps
 
 Android App
 
@@ -63,7 +63,7 @@ IOS App
 
 AWS App
 
-## Frameworks
+### Frameworks
 
 Laravel Connector 
 
@@ -71,13 +71,13 @@ Symphony Connector
 
 CodeIgnighter Connector
 
-## Web Services
+### Web Services
 
 REST Access
 
 SOAP Access
 
-## Plugins & Extensions
+### Plugins & Extensions
 
 Wordpress Plugin
 
