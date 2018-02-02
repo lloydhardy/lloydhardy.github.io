@@ -36,6 +36,8 @@ If you would like to hire me to work on your project remotely (I'm usually on th
 ### Projects
 
 PHPCalendar
+
 PHPReport
+
 PHPResult
 
