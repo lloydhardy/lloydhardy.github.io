@@ -48,27 +48,27 @@ PHPResult
 
 ## Templates
 
-Bootstrap WebDesktop Template
+Bootstrap Template
 
-Angular 4 WebDesktop Template
+Angular 4 Template
 
-X3D WebDesktop Template
+X3D Template
 
 ## Apps
 
-Android WebDesktop App
+Android App
 
-IOS WebDesktop App
+IOS App
 
-AWS WebDesktop App
+AWS App
 
 ## Frameworks
 
-Laravel WebDesktop Connector 
+Laravel Connector 
 
-Symphony WebDesktop Connector
+Symphony Connector
 
-CodeIgnighter WebDesktop Connector
+CodeIgnighter Connector
 
 ## Web Services
 
@@ -78,9 +78,9 @@ SOAP Access
 
 ## Plugins & Extensions
 
-Wordpress Plugin for WebDesktop
+Wordpress Plugin
 
-Drupal Module for WebDesktop
+Drupal Module
 
-Magento Extension for WebDesktop
+Magento Extension
 
