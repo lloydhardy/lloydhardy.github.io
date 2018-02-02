@@ -1,4 +1,4 @@
-# Lloyd Hardy Msc [IT]
+# Lloyd Hardy MSc
 
 ## Hi, My Name Is Lloyd
 
