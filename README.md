@@ -8,16 +8,19 @@ If you would like to hire me to work on your project remotely (I'm usually on th
 
 ![Image](beach.jpg)
 
+
 ### Things I Like
 
 1. Pretty Code
 2. Englsh Ale
 3. Beaches
 
+
 ### Things I Don't Like
 
 - Fear
 - Not liking things
+
 
 ### Code Rap
 
@@ -32,6 +35,7 @@ If you would like to hire me to work on your project remotely (I'm usually on th
   }
 ?>
 ```
+
 
 ### PHP Classes
 
