@@ -21,7 +21,7 @@ If you would like to hire me to work on your project remotely (I'm usually on th
 
 ### Code Rap
 
-```markdown
+```php
 <?php
   class HasStarted() 
     {
